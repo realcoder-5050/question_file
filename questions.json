@@ -1,0 +1,84 @@
+{
+    "questions": [
+        {
+            "question": "Who is the best striker as at now?",
+            "options": [
+                "Haaland",
+                "Lewa",
+                "Isak",
+                "Eketike"
+            ],
+            "answer": "Haaland"
+        },
+        {
+            "question": "Who won the Ballon d'Or in 2024?",
+            "options": [
+                "Lionel Messi",
+                "Erling Haaland",
+                "Kylian Mbappe",
+                "Jude Bellingham"
+            ],
+            "answer": "Erling Haaland"
+        },
+        {
+            "question": "Which club won the UEFA Champions League in 2024?",
+            "options": [
+                "Real Madrid",
+                "Manchester City",
+                "Bayern Munich",
+                "PSG"
+            ],
+            "answer": "Real Madrid"
+        },
+        {
+            "question": "Which player scored the most goals in Europe for the 2023/2024 season?",
+            "options": [
+                "Harry Kane",
+                "Erling Haaland",
+                "Kylian Mbappe",
+                "Cristiano Ronaldo"
+            ],
+            "answer": "Harry Kane"
+        },
+        {
+            "question": "Who is the current manager of Manchester City?",
+            "options": [
+                "Pep Guardiola",
+                "Mikel Arteta",
+                "Erik ten Hag",
+                "Luis Enrique"
+            ],
+            "answer": "Pep Guardiola"
+        },
+        {
+            "question": "Which team won the English Premier League in 2024?",
+            "options": [
+                "Manchester City",
+                "Arsenal",
+                "Liverpool",
+                "Chelsea"
+            ],
+            "answer": "Manchester City"
+        },
+        {
+            "question": "Who is the captain of the Portuguese national football team?",
+            "options": [
+                "Bruno Fernandes",
+                "Cristiano Ronaldo",
+                "Ruben Dias",
+                "Bernardo Silva"
+            ],
+            "answer": "Cristiano Ronaldo"
+        },
+        {
+            "question": "Which club signed Jude Bellingham in 2023?",
+            "options": [
+                "Real Madrid",
+                "Manchester United",
+                "Liverpool",
+                "Chelsea"
+            ],
+            "answer": "Real Madrid"
+        }
+    ]
+}
